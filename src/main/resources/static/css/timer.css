@@ -1,0 +1,44 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#0000FF;
+}
+body {
+	padding-top: 50px;
+}
+
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
+}
+
+.panel {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#btn-reset {
+	margin-right: 10px;
+}
+
+#clock {
+	margin-bottom: 0;
+}
+
+.taskName {
+	height: 200px;
+	width: 50%;
+}
+#taskTable{
+	width: 50%;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+p {
+	text-align: center;
+	font-size: 60px;
+	margin-top: 0px;
+}
